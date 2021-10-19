@@ -1,4 +1,4 @@
-                                             ### Hi👋, I'm JAVERIA SAEED ABBASI 👩
+                                                Hi👋, I'm JAVERIA SAEED ABBASI 👩
                                            A passionate WEB DEVELOPER from PAKISTAN 🇵🇰
                                         BS(CS)'2021 @VU 🎓🔸WEBDEVELOPER 💻 🔸ARTIST 🎨 | Karachi 
 
