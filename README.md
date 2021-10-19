@@ -3,7 +3,7 @@
                                         BS(CS)'2021 @VU 🎓🔸WEBDEVELOPER 💻 🔸ARTIST 🎨 | Karachi 
 
 I am BS(CS) fresh Graduate student from Virtual University of Pakistan. 🎓 I'm passionate about technology 💻, and have a passion of contributing in tech for making this world a better place.⚡I love creativity, art🖌️, nature🍃⛰️🌇, and travel✈️. 
-                                             "Service to others is the rent you pay for your room here on earth." ~ Muhammad Ali 🥊
+                                            <br> "Service to others is the rent you pay for your room here on earth." ~ Muhammad Ali 🥊
 <!-- 
 "It is a real service to humanity and the world to be a good programmer, particularly if you design great products. You make is easier for everybody, everybody has less headaches." ~ Frederick Lenz
 - 🔭 I’m currently working on ...
