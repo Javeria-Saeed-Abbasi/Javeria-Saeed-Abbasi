@@ -1,4 +1,5 @@
   <h1 align="center"> Hi!👋 I'm <i>JAVERIA SAEED ABBASI</i> </h1>
+<img width = "35%" align="right" alt="PIC" height="300px" src="https://i.pinimg.com/originals/68/5d/85/685d8564f387235bbcec2dcc53d7cf06.gif" />
 
 <h3 align="center"> A passionate WEB DEVELOPER from PAKISTAN 🇵🇰 </h3>
 <h3 align="center"> BS(CS)'2021 @VU 🎓🔸WEB DEVELOPER 💻 🔸ARTIST 🎨 | Karachi</h3>
