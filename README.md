@@ -5,7 +5,7 @@
 <h3 align="center"> BS(CS)'2021 @VU 🎓🔸WEB DEVELOPER 💻 🔸ARTIST 🎨 | Karachi</h3>
 
 <p align="center" >
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?color=%23F74C4C&size=25&center=true&vCenter=true&width=600&lines=Always+learning+new+things.+Be+a+Learner"></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?color=%23F74C4C&size=25&center=true&vCenter=true&width=600&lines=Be+a+Learner"></a>
 </p>
 
   <h3>🙋‍♂️ ABOUT ME </h3>
