@@ -9,7 +9,7 @@
 </p>
 
   <h3>🙋‍♂️ ABOUT ME </h3>
-I am BS(CS) fresh Graduate student from Virtual University of Pakistan. 🎓 I'm passionate about technology 💻, and have a passion of contributing in tech for making this world a better place.⚡I love creativity, art🖌️, nature🍃⛰️🌇, and travel✈️. 
+I am BS(CS) Graduate student from Virtual University of Pakistan. 🎓 I'm passionate about technology 💻, and have a passion of contributing in tech for making this world a better place.⚡I love creativity, art🖌️, nature🍃⛰️🌇, and travel✈️. 
                                             <br> "Service to others is the rent you pay for your room here on earth." ~ Muhammad Ali 🥊
 <div>
   
